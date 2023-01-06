@@ -3,7 +3,7 @@
 A java-based tool to simplify the ENG-KOR translation process of video transcription scripts given by Rev. Utilizes the Google Translate API to translate the existing text on the text area.
 
 ## Background:
-* Translating from scratch is less time efficient compared to editing a text that has been put through a translation technology such as Google Translate.
+* Translating from scratch is less time efficient compared to editing a text that has already been put through a translation technology such as Google Translate.
 * Rev provides subtitle translators with transcription files in SRT format. When copied and pasted in a text editing tool, the text includes unnecessary enters that break sentences and therefore affect the result of Google Translate.
 
 ## What does this tool do?
