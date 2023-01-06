@@ -1,6 +1,6 @@
 # RevTranslationEditor
 ## Brief description:
-A java-based tool to simplify the ENG-KOR translation process of video transcription scripts given by Rev. Utilizes the Google Translate API to translate the existing text on the text area.
+A java-based tool to simplify the ENG-KOR translation process of video transcription files given by Rev. Utilizes the Google Translate API to translate the existing text on the text area.
 
 ## Background:
 * Translating from scratch is less time efficient compared to editing a text that has already been put through a translation technology such as Google Translate.
