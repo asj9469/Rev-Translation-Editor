@@ -1,4 +1,6 @@
 # RevTranslationEditor (Beta)
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+
 ## Brief description:
 A java-based tool to simplify the ENG-KOR translation process of video transcription files given by Rev. Utilizes the Google Translate API to translate the existing text on the text area.
 
